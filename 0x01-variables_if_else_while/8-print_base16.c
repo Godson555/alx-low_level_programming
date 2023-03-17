@@ -9,12 +9,12 @@ int main(void)
 	int a = 48;
 	int b = 65;
 
-	while (a <= 57)
+	while (a <= 97)
 	{
 		putchar(a);
 		a++;
 	}
-	while (b <= 70)
+	while (b <= 102)
 	{
 		putchar(b);
 		b++;
