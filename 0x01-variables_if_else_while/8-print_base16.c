@@ -7,9 +7,9 @@
 int main(void)
 {
 	int a = 48;
-	int b = 65;
+	int b = 97;
 
-	while (a <= 97)
+	while (a <= 57)
 	{
 		putchar(a);
 		a++;
