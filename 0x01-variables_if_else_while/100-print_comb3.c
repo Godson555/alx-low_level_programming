@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main -Entry point
- * Description: 'Program that prints all posible different combinationsof two digits' 
+ * Description: 'Program that prints combination of two digits'
  * Return: always 0
  */
 int main(void)
