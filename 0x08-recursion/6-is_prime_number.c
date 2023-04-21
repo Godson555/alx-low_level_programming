@@ -9,7 +9,7 @@ int actual_prime(int n, int i);
 =======
 int actual_prime(int n, int i);
 /**
- * is_prime_number - returns 1 if the number is a prime number, otherwise returns 0
+ * is_prime_number - checks for prime number
  * @n: input value
 >>>>>>> c7e284286ddb2b1a7b1a2e290d3d87fbbf716c29
  * Return: 1 or 0
